@@ -1,8 +1,7 @@
 [tool.poetry]
-name = "entities-extraction-web-scrape"
+name = "ai-web-scraper"
 version = "0.1.0"
-description = "a small program that allows you to scrape any website using  natural language"
-authors = ["Hai Nghiem"]
+description = "a small program that allows you to scrape any website using natural language"
 license = "MIT"
 readme = "README.md"
 
