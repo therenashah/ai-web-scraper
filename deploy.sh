@@ -13,5 +13,7 @@ export PATH="$HOME/.local/bin:$PATH"
 # Install project dependencies
 poetry install
 
+poetry run playwright install
+
 # Run your main script
 poetry run python main.py
